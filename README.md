@@ -1,2 +1,2 @@
 # Nitrobook
-You know
+Localised booking application for services
